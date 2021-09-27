@@ -1,13 +1,11 @@
 ### Hi there! My name is Maeve <img alt="meow" width="50px" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" />
 
 
-## I am a currently a student 
+
+## An undergradute student with a cat to feed 
 
 - :purple_heart: I'm currently working on building a personalised website for fun
 - :blue_heart: I'm currently learning more about Machine Learning 
-- :yellow_heart: HI
-
-
 
 ### Languages and Tools:
 
