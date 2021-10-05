@@ -5,6 +5,7 @@
 ## An undergradute student with a cat to feed 
 
 - :purple_heart: I'm currently working on building a personalised website for fun
+- :yellow_heart: I'm currently learning more about react and react-native
 - :blue_heart: I'm currently learning more about Machine Learning 
 
 ### Languages and Tools:
